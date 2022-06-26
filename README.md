@@ -9,12 +9,15 @@
 
 - 📫 How to reach me **ma.gergo3@gmail.com**
 
-<img align="left" alt="wow-cat" width="200" src="https://i.pinimg.com/originals/ef/ed/65/efed65e64ae92033afe38847a89e8d13.gif">
+
+<img align="left" alt="wow-cat" width="300" src="https://i.pinimg.com/originals/ef/ed/65/efed65e64ae92033afe38847a89e8d13.gif">
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mmgeri&theme=radical" alt="mmgeri" />  </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmgeri&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmgeri" /></p>
 
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mmgeri&theme=radical" alt="mmgeri" />  </p>
+
 
 
