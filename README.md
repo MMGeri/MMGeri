@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Márta Gergely</h1>
+<h1 align="center" >Hi 👋, I'm Márta Gergely</h1>
 <h3 align="center">Student at the University of Szeged</h3>
-
-<img align="right" alt="wow-cat" width="400" src="https://i.pinimg.com/originals/ef/ed/65/efed65e64ae92033afe38847a89e8d13.gif">
-
 
 - 🔭 I’m currently working on [Programming guidelines](https://github.com/MMGeri/Programming-guidelines)
 
@@ -17,3 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmgeri&show_icons=true&locale=en&theme=radical" alt="mmgeri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmgeri&theme=radical" alt="mmgeri" /></p>
+
+<img align="center" alt="wow-cat" width="200" src="https://i.pinimg.com/originals/ef/ed/65/efed65e64ae92033afe38847a89e8d13.gif">
