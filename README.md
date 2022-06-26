@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Márta Gergely</h1>
 <h3 align="center">Student at the University of Szeged</h3>
 
-<img align="right" alt="wow-cat" width="150" src="https://i.pinimg.com/originals/ef/ed/65/efed65e64ae92033afe38847a89e8d13.gif">
+<img align="right" alt="wow-cat" width="400" src="https://i.pinimg.com/originals/ef/ed/65/efed65e64ae92033afe38847a89e8d13.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmgeri&label=Profile%20views&color=0e75b6&style=flat" alt="mmgeri" /> </p>
@@ -14,7 +14,7 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmgeri&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmgeri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmgeri&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmgeri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmgeri&show_icons=true&locale=en&theme=radical" alt="mmgeri" /></p>
 
