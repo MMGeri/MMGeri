@@ -4,8 +4,6 @@
 <img align="right" alt="wow-cat" width="400" src="https://i.pinimg.com/originals/ef/ed/65/efed65e64ae92033afe38847a89e8d13.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmgeri&label=Profile%20views&color=0e75b6&style=flat" alt="mmgeri" /> </p>
-
 - 🔭 I’m currently working on [Programming guidelines](https://github.com/MMGeri/Programming-guidelines)
 
 - 🌱 I’m currently learning **Linux, Clean Code**
