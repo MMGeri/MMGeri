@@ -3,7 +3,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mmgeri&show_icons=true&locale=en&theme=radical" alt="mmgeri" /></p>
 
-- 🔭 I’m currently working on [Programming guidelines](https://github.com/MMGeri/Programming-guidelines) (for myself)
+- 🔭 I’m currently working on a [basic Java CRUD web/desktop app](https://github.com/MMGeri/Basic-CRUD)
 
 - 🌱 I’m currently learning **Linux, Clean Code**
 
