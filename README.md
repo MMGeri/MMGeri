@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Linux, Clean Code**
 
+- 🐈 Proud Cat owner
+
 - 📫 How to reach me **ma.gergo3@gmail.com**
 
 
