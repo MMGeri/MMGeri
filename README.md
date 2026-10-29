@@ -23,11 +23,6 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmgeri&show_icons=true&theme=radical" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmgeri&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=mmgeri&theme=radical" />
 </p>
 
