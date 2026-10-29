@@ -6,7 +6,7 @@
 <h3 align="center">MSc in Computer Science, University of Szeged</h3>
 
 <p align="center">
-  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=DevOps+%7C+SRE+%7C+Sysadmin;Linux+enthusiast;Building+my+own+projects;Cat+owner+%F0%9F%90%88" />
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Learning+DevOps+%7C+SRE+%7C+Sysadmin;Wannabe+Linux+enthusiast;Building+my+own+projects;Cat+owner+%F0%9F%90%88" />
 </p>
 
 <p align="center">
