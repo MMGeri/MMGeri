@@ -1,25 +1,36 @@
-<h1 align="center" >Hi 👋, I'm Márta Gergely</h1>
-<h3 align="center">Student at the University of Szeged</h3>
+<p align="center">
+  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header" />
+</p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mmgeri&show_icons=true&locale=en&theme=radical" alt="mmgeri" /></p>
+<h1 align="center">Hi 👋, I'm Márta Gergely</h1>
+<h3 align="center">MSc in Computer Science, University of Szeged</h3>
 
-- 🔭 I’m currently working on a my webpage and I am `REFACTORING` my old code, in order to become a better programmer.
+<p align="center">
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=DevOps+%7C+SRE+%7C+Sysadmin;Linux+enthusiast;Building+my+own+projects;Cat+owner+%F0%9F%90%88" />
+</p>
 
-- 🌱 I’m currently learning **Linux, Clean Code**
+<p align="center">
+  <img width="300" alt="wow-cat" src="https://i.pinimg.com/originals/ef/ed/65/efed65e64ae92033afe38847a89e8d13.gif">
+</p>
 
-- 🐈 Proud Cat owner
+## About me
 
-- 📫 How to reach me **ma.gergo3@gmail.com**
+- 🔭 Working on my own projects
+- 🌱 Studying **DevOps**, **SRE** and **sysadmin** topics, including **Linux**
+- 🐈 Proud cat owner
+- 📫 Reach me at **ma.gergo3@gmail.com**
 
+## GitHub stats
 
-<img align="left" alt="wow-cat" width="300" src="https://i.pinimg.com/originals/ef/ed/65/efed65e64ae92033afe38847a89e8d13.gif">
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmgeri&show_icons=true&theme=radical" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmgeri&layout=compact&theme=radical" />
+</p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mmgeri&theme=radical" alt="mmgeri" />  </p>
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=mmgeri&theme=radical" />
+</p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmgeri&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmgeri" /></p>
-
-
-
-
-
-
+<p align="center">
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
+</p>
